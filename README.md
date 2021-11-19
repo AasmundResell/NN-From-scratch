@@ -1,5 +1,5 @@
 # NN-Fromsscratch
-Contatins two implentations of a neural network based on stochastic gradient descent. 
+Contains two implentations of a neural network based on stochastic gradient descent. 
 
 One for solving regression problems and one classification problems
 
